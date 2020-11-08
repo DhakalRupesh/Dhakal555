@@ -1,9 +1,9 @@
-![](https://komarev.com/ghpvc/?username=Dhakal555)
+![](https://komarev.com/ghpvc/?username=DhakalRupesh)
 ### Hi there 👋 
 #### I am a Full Stack Developer 
 
 <!--
-**Dhakal555/Dhakal555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DhakalRupesh/DhakalRupesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
