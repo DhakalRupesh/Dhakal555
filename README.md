@@ -17,22 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCYIW99DIXNstryeE8OvW6CQ?view_as=subscriber" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/dhakal-rupesh-b2670a16a/" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.instagram.com/dhakalrupesh55/" />][instagram]
 
 <br />
 
@@ -58,3 +49,9 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Rupesh Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhakalRupesh&show_icons=true&hide_border=true" />
+
+[website]: 
+[twitter]: https://twitter.com/AayushDhakal12
+[youtube]: https://www.youtube.com/channel/UCYIW99DIXNstryeE8OvW6CQ?view_as=subscriber
+[instagram]: https://www.instagram.com/dhakalrupesh55/
+[linkedin]: https://www.linkedin.com/in/dhakal-rupesh-b2670a16a/
