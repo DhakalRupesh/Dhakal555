@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/AayushDhakal12
 [youtube]: https://www.youtube.com/channel/UCYIW99DIXNstryeE8OvW6CQ?view_as=subscriber
 [instagram]: https://www.instagram.com/drupesh5/
-[linkedin]: https://www.linkedin.com/in/dhakal-rupesh-b2670a16a/
+[linkedin]: https://www.linkedin.com/in/rupesh-dhakal-b2670a16a/
