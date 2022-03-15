@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Rupesh Github Stats" src="https://github-readme-stats.vercel.app/api?username=DhakalRupesh&show_icons=true&hide_border=true" />
 
-[website]: https://rupeshdhakalportfolio.netlify.app/
+[website]: https://rdhakal.netlify.app/
 [twitter]: https://twitter.com/AayushDhakal12
 [youtube]: https://www.youtube.com/channel/UCYIW99DIXNstryeE8OvW6CQ?view_as=subscriber
-[instagram]: https://www.instagram.com/dhakalrupesh55/
+[instagram]: https://www.instagram.com/drupesh5/
 [linkedin]: https://www.linkedin.com/in/dhakal-rupesh-b2670a16a/
